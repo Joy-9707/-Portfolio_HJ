@@ -1,4 +1,9 @@
 ## Hi there 👋
+데이터분석가를 꿈꾸는 김희정의 포트폴리오 
+
+----
+
+# 
 
 <!--
 **Joy-9707/Joy-9707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
